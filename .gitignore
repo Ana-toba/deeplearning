@@ -1,0 +1,16 @@
+# Ignorar todo
+*
+
+# Permitir el propio .gitignore
+!.gitignore
+
+# Archivos permitidos
+!utils.py
+!postprocess.py
+!config.py
+!main_video2.py
+requirements.txt
+
+# Carpeta models y todo su contenido
+!models/
+!models/**
